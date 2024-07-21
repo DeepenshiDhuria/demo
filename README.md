@@ -1,4 +1,4 @@
 # demo
 This is my demo repository
 <br>
-Author by -- Deepanshi Dhuria
+Author by -- Deepanshi (Software engineer)
